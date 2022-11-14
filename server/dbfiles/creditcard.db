@@ -1,0 +1,9 @@
+{"username":"test3","cardnumber":"345555555555555","balance":0,"limit":"34899","_id":"3082eCpgIpqCLP7U","createdAt":{"$$date":1668192654138},"updatedAt":{"$$date":1668192654138}}
+{"username":"testluhn","cardnumber":"44444444444444444444","balance":0,"limit":"40000","_id":"9TZFzNJ5c76nxi4t","createdAt":{"$$date":1668435691861},"updatedAt":{"$$date":1668435691861}}
+{"username":"test4","cardnumber":"6666666","balance":0,"limit":"34899","_id":"EXRIMqcM9tZk3IpH","createdAt":{"$$date":1668192914414},"updatedAt":{"$$date":1668192914414}}
+{"username":"test2","cardnumber":"12345673344","balance":0,"limit":"30000","_id":"EyUvdn3zSyrkXkak","createdAt":{"$$date":1668191277862},"updatedAt":{"$$date":1668191277862}}
+{"username":"test1","cardnumber":"1234567","balance":0,"limit":"30000","_id":"VpA6vbRPjqQWGKED","createdAt":{"$$date":1668191249245},"updatedAt":{"$$date":1668191249245}}
+{"username":"testluhn","cardnumber":"1234567890000","balance":0,"limit":"40000","_id":"amPVf6GdgGupJdWr","createdAt":{"$$date":1668435678097},"updatedAt":{"$$date":1668435678097}}
+{"username":"testluhn","cardnumber":"22334455667777","balance":0,"limit":"40000","_id":"dMrZrhulCzMhbcOO","createdAt":{"$$date":1668435713165},"updatedAt":{"$$date":1668435713165}}
+{"username":"testluhn","cardnumber":"8888888888888888","balance":0,"limit":"40000","_id":"i4Uap0v5xHlE6v7G","createdAt":{"$$date":1668435701686},"updatedAt":{"$$date":1668435701686}}
+{"username":"testluhn","cardnumber":"111","balance":0,"limit":"40000","_id":"u2lpqsH5glwAkEub","createdAt":{"$$date":1668435870447},"updatedAt":{"$$date":1668435870447}}
